@@ -1,4 +1,4 @@
-<!-- # Basic-Portfolio
+# Basic-Portfolio
 
 UCF Coding Boot Camp - Week TWO Homework Assignment (Recommended)
 
@@ -8,4 +8,4 @@ UCF Coding Boot Camp - Week TWO Homework Assignment (Recommended)
 Build a professional portfolio site using HTML/CSS..
 
 ---
-BRAD SPURRELL (c) 2020.  All Rights Reserved. -->
+BRAD SPURRELL (c) 2020.  All Rights Reserved.
